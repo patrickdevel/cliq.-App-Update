@@ -1,4 +1,4 @@
-1.2
+1.1
 ---Was ist neu?---
 - Finales Realease der App
 - Benachrichtigungen zum Update öffnen jetzt das Update-PopUp
