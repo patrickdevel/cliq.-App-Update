@@ -1,3 +1,7 @@
-1.0
+1.1
 ---Was ist neu?---
-keine neuigkeiten
+- Finales Realease der App
+- Benachrichtigungen zum Update öffnen jetzt das Update-PopUp
+- Share-Dialog hinzugefügt
+- Kamera/Foto-Auswahl-PopUp mit "Zuletzt verwendet"-Badge
+- und mehr!
