@@ -1,3 +1,7 @@
-1.2
+1.1
 ---Was ist neu?---
-- gefixt: Du kannst jetzt in Browser-PopUps scrollen
+- Finales Realease der App
+- Benachrichtigungen zum Update öffnen jetzt das Update-PopUp
+- Share-Dialog hinzugefügt
+- Kamera/Foto-Auswahl-PopUp mit "Zuletzt verwendet"-Badge
+- und mehr!
