@@ -2,3 +2,4 @@
 ---Was ist neu?---
 - Du kannst jetzt in Modal Buttom Sheets scrollen bzw. in Webseiten
 - Wenn du Links öffnest die zu TikTok, Discord usw. führen, werden sie automatisch jetzt in der App geöffnet. Wenn diese nicht installiert ist, wird die Webseite innerhalb eines Modal Buttom Sheets geöffnet.
+- gefixt: Man kann jetzt wieder überall scrollen.
