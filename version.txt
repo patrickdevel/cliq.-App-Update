@@ -2,4 +2,5 @@
 ---Was ist neu?---
 - Du kannst die App jetzt mithilfe von biometrischen Daten sperren
 - Du kannst jetzt mithilfe von >schütteln< ein Einstellungsmenü öffnen
+- Hilfepopup hinzugefügt, dass die Webseite neu geladen wird, wenn das Gerät gedreht wird.
 - und mehr!
