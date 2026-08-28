@@ -1,4 +1,4 @@
-1.2
+1.84
 ---Was ist neu?---
 - Du kannst die App jetzt mithilfe von biometrischen Daten sperren
 - Du kannst jetzt mithilfe von >schütteln< ein Einstellungsmenü öffnen
